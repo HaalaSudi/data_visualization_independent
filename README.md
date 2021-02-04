@@ -1,6 +1,8 @@
 # Independent data visualization coursework
 # An investigation into life satisfaction and income in inner London Boroughs from 2011-2017
 
+This was an individual work for my data visualisation module; we were tasked to find datasets to clean and visualise in a clear and concise manner
+
 The main question this report wished to answer was ‘does there exist a correlation between life satisfaction and income?’.
 
 To answer this question, we first needed to analyse our data in full context and figure out if any patterns existed before investigating them further. 
